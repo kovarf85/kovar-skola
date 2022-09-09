@@ -1,0 +1,2 @@
+# kovar-skola
+škola
